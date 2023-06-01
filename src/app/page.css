@@ -1,0 +1,7 @@
+.main-page {
+    background-color: var(--meli-gray-color);
+}
+
+.main-page__results {
+    padding: 0 var(--meli-main-padding);
+}

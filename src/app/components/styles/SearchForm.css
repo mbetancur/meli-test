@@ -1,0 +1,24 @@
+.search-form {
+    display: flex;
+    width: 800px;
+}
+
+.search-input {
+    padding: var(--meli-xsmall-padding) var(--meli-small-padding);
+    border: 1px solid var(--meli-gray-color);
+    border-radius: var(--meli-small-padding) 0 0 var(--meli-small-padding);
+    width: 100%;
+}
+
+.search-button {
+    background-color: var(--meli-gray-color);
+    border: none;
+    padding: var(--meli-xsmall-padding);
+    border-radius: 0 var(--meli-small-padding) var(--meli-small-padding) 0;
+    cursor: pointer;
+}
+
+.button-icon {
+    width: var(--meli-large-padding);
+    height: var(--meli-large-padding);
+}
